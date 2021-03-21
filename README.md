@@ -1,1 +1,1 @@
-# java_text_editor
+object oriented programming course project with various features
